@@ -1,0 +1,9 @@
+.disabledListeners=true
+HttpAPITestDemo.disabledListeners=true
+HttpAPITestDemo.outdir=test-output
+HttpAPITestDemopreDefinedListeners=org.uncommons.reportng.HTMLReporter
+TestNGDemo.disabledListeners=true
+TestNGDemo.outdir=test-output
+TestNGDemopreDefinedListeners=org.uncommons.reportng.HTMLReporter
+eclipse.preferences.version=1
+preDefinedListeners=org.uncommons.reportng.HTMLReporter
